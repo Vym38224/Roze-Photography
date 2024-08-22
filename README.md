@@ -1,4 +1,4 @@
-# Roze-Photography
+# Roze Photography
 This project was created as part of my self-education and also as a gift for my girlfriend, who is a photographer. The website serves as her online portfolio, showcasing her photographic work, projects, and more.
 
 ## Live Version
@@ -21,7 +21,12 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Vym38224/Roze-Photography.git
+2. **Navigate to the project directory:**
+   ```bash
+   cd repository-name
+3. **Open the index.html file in your browser to view the application.**
+   
    
 ## License
-This project is available under the LICENSE.
+This project is available under CC the BY-SA 4.0 license. More information here https://github.com/Vym38224/Roze-Photography?tab=License-1-ov-file.
