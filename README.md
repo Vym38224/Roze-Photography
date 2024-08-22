@@ -27,6 +27,9 @@ To run the project locally, follow these steps:
    cd repository-name
 3. **Open the index.html file in your browser to view the application.**
    
-   
+## Contributing
+No contributions are planned or needed for this project. 
+If you have any feedback or suggestions, feel free to contact me.
+
 ## License
 This project is available under CC the BY-SA 4.0 license. More information here https://github.com/Vym38224/Roze-Photography?tab=License-1-ov-file.
