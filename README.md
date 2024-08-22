@@ -24,7 +24,7 @@ To run the project locally, follow these steps:
    git clone https://github.com/Vym38224/Roze-Photography.git
 2. **Navigate to the project directory:**
    ```bash
-   cd repository-name
+   cd Roze-Photography
 3. **Open the index.html file in your browser to view the application.**
    
 ## Contributing
