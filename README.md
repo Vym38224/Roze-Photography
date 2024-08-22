@@ -9,3 +9,25 @@ The project is built using the following technologies:
 - Bootstrap 5 for quickly and easily creating a responsive and modern design without the need to write extensive custom CSS
 - HTML5 and CSS3 for structure and styling
 - JavaScript for interactive elements
+- 
+# Features
+- Display of photographs in various galleries
+- Responsive design ensuring proper display on different devices
+- Contact form for easy communication with the photographer
+- Ability to add and update content as needed (e.g., new galleries, projects)
+
+# Installation and Running
+To run the project locally, follow these steps:
+Clone the repository:
+bash
+Zkopírovat kód
+git clone https://github.com/username/repository-name.git
+Navigate to the project directory:
+bash
+Zkopírovat kód
+cd repository-name
+Open the index.html file in your browser to view the application.
+Contributing
+This project was created for personal purposes and as a gift, so contributions are not necessary. However, if you have any suggestions or feedback, feel free to contact me.
+
+
