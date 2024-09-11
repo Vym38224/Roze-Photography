@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://rozephotography.cz/kone.html</loc>
+        <loc>/</loc>
     </url>
     <url>
-        <loc>https://rozephotography.cz/kontakty.html</loc>
+        <loc>/kone.html</loc>
     </url>
     <url>
-        <loc>https://rozephotography.cz/o-mne.html</loc>
+        <loc>/kontakty.html</loc>
     </url>
     <url>
-        <loc>https://rozephotography.cz/portfolio.html</loc>
+        <loc>/o-mne.html</loc>
     </url>
     <url>
-        <loc>https://rozephotography.cz/psi.html</loc>
+        <loc>/portfolio.html</loc>
     </url>
     <url>
-        <loc>https://rozephotography.cz/zavody.html</loc>
+        <loc>/psi.html</loc>
+    </url>
+    <url>
+        <loc>/zavody.html</loc>
     </url>
 </urlset>
